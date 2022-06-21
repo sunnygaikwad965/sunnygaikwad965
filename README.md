@@ -1,5 +1,5 @@
 <h1 align="center",style="color:#ff9d96;">Hi 👋, I'm Sunny M Gaikawad</h1>
-<h3 align="center">A passionate and enthusiastic in Data Science and machine learning engineer from India</h3>
+<h3 align="center">A passionate and enthusiastic in Data Science and machine learning engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/sunnygaikwad965">
 
  I’m currently learning **Python,Data science,Numpy,Pandas,scikit_learn,ML algorithms,Tableau**
